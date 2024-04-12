@@ -1,0 +1,13 @@
+com/example/Views/Artists/ArtistsMainView.class
+com/example/Views/Downloads/DownloadsMainView.class
+com/example/Panels/LeftPanel.class
+com/example/Views/Downloads/WebView.class
+com/example/model/Song.class
+com/example/Panels/MainPanel.class
+com/example/Panels/TopPanel.class
+com/example/database/DatabaseConnection.class
+com/example/Entry.class
+com/example/Views/Albums/AlbumsMainView.class
+com/example/Panels/RightPanel.class
+com/example/Views/Songs/SongsMainView.class
+com/example/database/SongDao.class

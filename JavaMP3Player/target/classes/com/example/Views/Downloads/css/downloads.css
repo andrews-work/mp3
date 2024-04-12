@@ -1,0 +1,21 @@
+.downloads-main-view {
+    -fx-background-color: #f0f0f0;
+    -fx-padding: 10px;
+    -fx-border: 1px solid black;
+    -fx-alignment: center;
+}
+
+.add-file-button {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+}
+
+.web-button {
+    -fx-background-color: #2196f3;
+    -fx-text-fill: white;
+}
+
+.button-container {
+    -fx-spacing: 10px;
+    -fx-alignment: center;
+}

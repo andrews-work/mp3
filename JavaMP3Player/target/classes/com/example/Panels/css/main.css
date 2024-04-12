@@ -1,0 +1,26 @@
+.top-panel {
+    -fx-background-color: rgb(0, 41, 5);
+    background-color: rgb(0, 41, 5);
+    -fx-pref-height: 100px; /* Adjusted height to 60 pixels */
+    height: 100px;
+    -fx-width: 100%;
+    width: 100%;
+}
+
+.left-panel {
+    -fx-background-color: rgb(0, 31, 41);
+    background-color: rgb(0, 31, 41);
+    -fx-pref-height: 480px; /* Adjusted height to 480 pixels */
+    height: 480px;
+    -fx-pref-width: 275px; /* Adjusted width to 200 pixels */
+    width: 275px;
+}
+
+.right-panel {
+    -fx-background-color: rgb(69, 191, 232);
+    background-color: rgb(69, 191, 232);
+    -fx-pref-height: 480px; /* Adjusted height to 480 pixels */
+    height: 480px;
+    -fx-pref-width: 1650px; /* Adjusted width to 800 pixels */
+    width: 1650px;
+}
